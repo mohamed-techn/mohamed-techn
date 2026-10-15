@@ -22,7 +22,7 @@ Front-End Developer focused on building clean, responsive, and well-structured w
 
 | Project | Description |
 |---|---|
-| 🌤️ [Weather Dashboard](https://github.com/mohamed-techn/weather-app) | Bilingual (AR/EN) weather app with RTL, dark mode, and live forecasts |
+| 🌤️ [WeatherDay](https://github.com/mohamed-techn/weather-day) | Bilingual (AR/EN) weather dashboard with RTL, dark mode, and live hourly and 7-day forecasts |
 | ✅ [Todo List App](https://github.com/mohamed-techn/todo1st) | Task manager with filtering, sorting, and stats — built with React Context |
 
 ### 📫 Reach Me
@@ -30,15 +30,10 @@ Front-End Developer focused on building clean, responsive, and well-structured w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ehab-70143732a)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.ehab.gamal5@gmail.com)
 
----
+<!--
+Optional: uncomment once your account has enough activity.
 
-![Profile views](https://komarev.com/ghpvc/?username=mohamed-techn&color=blue)
+### 📊 GitHub Stats
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-techn&show_icons=true&theme=dark&hide_border=true)
 -->
-[profile-README (1).md](https://github.com/user-attachments/files/33505432/profile-README.1.md)
